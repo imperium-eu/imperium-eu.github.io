@@ -11,7 +11,7 @@ exclude:
   - node_modules
   - src
 
-highlighter: pygments
+highlighter: rouge
 
 title : Imperium
 tagline: Imperium - Chamber of Aspect - Alliance
