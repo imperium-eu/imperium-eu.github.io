@@ -1,0 +1,26 @@
+
+permalink: /:year/:month/:day/:title 
+
+exclude: 
+  - .rvmrc
+  - .rbenv-version
+  - README.md
+  - Rakefile
+  - changelog.md
+  - bower_components
+  - node_modules
+  - src
+
+highlighter: pygments
+
+title : Imperium
+tagline: Imperium - Chamber of Aspect - Alliance
+author :
+  name : Aeiedil
+  email : simon@strayegg.com
+  github : SimonHooker
+  twitter : Aeiedil
+  disqus : strayegg
+  analytics : 'UA-101487091-1'
+
+production_url : http://imperium.strayegg.com
